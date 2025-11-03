@@ -5,7 +5,7 @@
 Nama Anggota :
 1. Alicia Khairunnisya      (G1A025025)
 2. Zora Ghaziyah Wanie      (G1A025027)
-3. Andrian Revaldo          (G1A025113)
+3. Andrian Revaldo          (G1A025029)
 # Overview
 Proyek ini merupakan sistem gaji karyawan dengan simulasi proyek dan jam kerja dinamis dengan menggunakan bahasa Java. Sistem menghitung gaji bersih setiap karyawan dengan mempertimbangkan jam kerja total, bonus proyek, dan pajak progresif. Setiap proyek memiliki tingkat kesulitan yang memengaruhi besar bonus, serta status penyelesaian proyek yang berpengaruh terhadap hasil akhir gaji.
 # Struktur Program
